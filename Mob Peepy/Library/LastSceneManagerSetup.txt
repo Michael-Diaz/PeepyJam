@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Amazing Assets/Curved World/Example Scenes/Bend - Little Planet (Y).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
